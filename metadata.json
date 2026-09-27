@@ -1,0 +1,6 @@
+{
+  "name": "GlowShoes POS",
+  "description": "Aplikasi kasir cuci sepatu lengkap dengan manajemen menu, laporan penjualan harian & bulanan, cetak struk thermal, member loyalitas, backup & export Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
